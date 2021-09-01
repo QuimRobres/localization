@@ -47,6 +47,7 @@ function App() {
         </ul>
       </div>
       <h1>{t("welcome_message")}</h1>
+      <h4>{t("town_description")}</h4>
     </div>
   );
 }

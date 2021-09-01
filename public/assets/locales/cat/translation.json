@@ -1,3 +1,4 @@
 {
-    "welcome_message" : "Benvinguts a react app!"
+    "welcome_message" : "Benvinguts a react app!",
+    "town_description" : "Llinars del Vallès és una vila i municipi de la comarca del Vallès Oriental. Forma part de la zona geogràfica del Baix Montseny. El terme municipal s'estén des dels contraforts meridionals del Massís del Montseny fins a la Serralada Litoral. L'agricultura de secà predomina sobre el regadiu, el qual prolifera només a la vora del riu Mogent. Els boscos són majoritàriament mediterranis (pinedes i alzinars) tot i que a la Serralada Litoral també hi abunden les rouredes i les suredes."
 }
