@@ -1,0 +1,9 @@
+.description-box {
+    background-color: white;
+    border: 1px grey;
+    border-radius: 25px;
+}
+
+.description-box h3 {
+    padding: 20px;
+}

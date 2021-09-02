@@ -1,0 +1,25 @@
+.language-section {
+    margin: -10px 0px;
+
+}
+
+.language-bar {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+li {
+    list-style: none;
+    padding: 0px 5px;
+}
+
+.button {
+    background-color: #d9dad8;
+}
+
+.button p {
+    font-size: 1.2em;
+    margin: 1px 0px;
+}

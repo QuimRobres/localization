@@ -1,0 +1,15 @@
+.title-image {
+    background-image: url("../../img/llinars_landscape.jpg");
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.title-image h1 {
+    color: wheat;
+    text-shadow: 0px 0px 10px;
+    font-size: 100px;
+    margin-top: -8px;
+   
+}
